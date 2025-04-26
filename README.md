@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-For issues or suggestions, please open an issue on GitHub or contact \[your-email@example.com\].
+
