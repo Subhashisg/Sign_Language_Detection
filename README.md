@@ -3,6 +3,8 @@
 This project implements a real-time American Sign Language (ASL) recognition system using hand tracking and computer vision. It detects hand gestures from a webcam feed, classifies them into ASL letters (A-Z), displays the results on a Streamlit web interface, and provides text-to-speech (TTS) output and keyboard typing functionality. The system bridges communication gaps by enabling deaf individuals to express thoughts seamlessly.
 ##   Presentation   
 https://www.canva.com/design/DAGluLAU4TA/V0gjeZ67u64KoKSE82gk8g/view?utm_content=DAGluLAU4TA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f23d4ba4d  
+## Deployed App in Hugging Face 
+https://huggingface.co/spaces/Subhashisg/Sign_language_detection
 ## Features
 
 - **Real-Time Hand Tracking**: Uses a custom `HandTrackingModule` to detect and track hand landmarks via OpenCV.
